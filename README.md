@@ -1,7 +1,7 @@
 # HLS_DEMO_PAGE
 
 
-Download hls.html page and run into your browser
+Download hls.html file and run into your browser
 
 For Testing purpose use blow links:
 
